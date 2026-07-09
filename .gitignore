@@ -1,6 +1,0 @@
-node_modules/
-.env
-*.log
-logs/*.jsonl
-data/embeddings.json
-.DS_Store
